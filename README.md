@@ -8,7 +8,8 @@ In college, for a undergraduate research I developed an algorithm to implement a
 
 Professionally, I developed process automations with Selenium, web scraping with BeautifulSoup, web applications with Django, natural language processing with Transformers, data manipulation with Pandas, among other applications.
 
-### 
+## 🧠 Skills
+![Python]([https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54))
 
 <!--
 **gustavoddoki/gustavoddoki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
