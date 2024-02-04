@@ -4,9 +4,9 @@ I'm Gustavo Daiske Doki, bachelor in Mechanical Engineer and Business Administra
 ## 🧪 Experience
 I have a lot of experience using Python for many applications. 
 
-In college, for a undergraduate research I developed an algorithm to implement a numerical method to solve an engineering equation, and for my undergraduate thesis I developed a Deep Learning algorithm using Physics-Informed Neural Networks and Deep Operator Networks to solve this same engineering equation with Tensorflow. 
+In college, for a undergraduate research I developed an algorithm to implement a numerical method to solve an engineering equation, and for my undergraduate thesis I developed a Deep Learning algorithm using Physics-Informed Neural Networks and Deep Operator Networks to solve this same engineering equation. 
 
-Professionally, I developed process automations with Selenium, web scraping with BeautifulSoup, web applications with Django, natural language processing with Transformers, data manipulation with Pandas, among other applications.
+Professionally, I developed process automations, web scraping, web applications, natural language processing, data manipulation, among other applications.
 
 ## 🧠 Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
