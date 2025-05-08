@@ -1,5 +1,5 @@
 ## 👋 Hi there
-I'm Gustavo Daiske Doki, bachelor in Mechanical Engineer and Business Administration. I currently work as Quantitative Risk Analyst at Vórtx.
+I'm Gustavo Daiske Doki, bachelor in Mechanical Engineer and Business Administration. I currently work as Quant Developer at Honey Island Capital.
 
 ## 🧪 Experience
 I have years of experience using Python for many applications. 
